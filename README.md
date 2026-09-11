@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sharon
+# Hola, Soy Sharon
 🚀 *Aprendiz SENA* en el programa de *Análisis y Desarrollo de Software (ADSO)*.
 Me gusta la lógica de programación y el diseño creativo,transformar ideas en soluciones funcionales y construir cosas desde cero.
 - 🎨 Lo que me apasiona:
